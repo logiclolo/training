@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/!svn/ver/126014/Sandbox/logic/trunk/NetworkProg_Lab/hw1
+END
+UDPserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/!svn/ver/126014/Sandbox/logic/trunk/NetworkProg_Lab/hw1/UDPserver.c
+END
+UDPclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/!svn/ver/126014/Sandbox/logic/trunk/NetworkProg_Lab/hw1/UDPclient.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/!svn/ver/126170/Sandbox/logic/trunk/NetworkProg_Lab/hw1/makefile
+END

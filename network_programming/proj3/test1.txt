@@ -1,0 +1,4 @@
+printenv PATH
+ls
+delayedremovetag test.html
+exit

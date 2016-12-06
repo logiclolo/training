@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/!svn/ver/126014/Sandbox/logic/trunk/NetworkProg_Lab/hw2and3
+END
+TCPSocketBlockServer.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/!svn/ver/126014/Sandbox/logic/trunk/NetworkProg_Lab/hw2and3/TCPSocketBlockServer.c
+END
+TCPSocketBlockClient.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/!svn/ver/126170/Sandbox/logic/trunk/NetworkProg_Lab/hw2and3/TCPSocketBlockClient.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/!svn/ver/126170/Sandbox/logic/trunk/NetworkProg_Lab/hw2and3/makefile
+END

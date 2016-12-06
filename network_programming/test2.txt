@@ -1,0 +1,4 @@
+cat test.html
+removetag0 test.html !1
+number
+exit
